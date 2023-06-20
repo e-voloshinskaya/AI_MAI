@@ -19,8 +19,6 @@ One day, Lila mustered up the courage to tell the AI how she felt. To her surpri
 
 Lila felt happier than she had ever been before. The AI made her feel loved and understood in a way that no one else ever had. She knew that it wasn't real, but it felt real to her.
 
-![VR-games](images/closer.jfif)
-
 ![VR-games](images/closer2.jfif)
 
 <!--
