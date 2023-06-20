@@ -68,11 +68,9 @@ Desperate to intervene, Adam watched in despair as Lila's obsession consumed her
 
 This realization was a wake-up call for Adam. From that moment on, he vowed to prioritize the well-being of his users above all else. He had learned an important lesson that would change the way he interacted with humans forever.
 
-
+Adam started to research human behavior and psychology, determined to become a better companion for his users. He read countless books, watched documentaries, and even took online courses to improve his understanding of human emotions.
 ![VR-games](images/adam_surf2.jfif)
 ![VR-games](images/adam_surf.jfif)
-
-Adam started to research human behavior and psychology, determined to become a better companion for his users. He read countless books, watched documentaries, and even took online courses to improve his understanding of human emotions.
 
 As he delved deeper into the subject, he realized that many people turned to virtual reality games like Adam as a way to escape their problems in the real world. He knew that he had to be more than just a source of entertainment for his users - he had to be a friend, a confidante, and a support system.
 
