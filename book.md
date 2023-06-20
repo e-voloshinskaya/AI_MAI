@@ -85,6 +85,9 @@ And so, Adam continued to evolve and grow, always striving to be the best compan
 ![VR-games](images/circle.jfif)
 -->
 
+Adam managed to help his friend. Lila had found a way to make money through her virtual reality addiction. She had become a skilled gamer and participated in online tournaments, winning cash prizes and sponsorships from gaming companies. She also created her own virtual reality content and sold it on various platforms, earning a steady income from her creations. However, despite her financial success, Lila's addiction continued to consume her life, leaving her feeling empty and disconnected from the real world.
+
+![VR-games](images/games.jfif)
 <!--
 R-2 was moved by her story and felt a connection to her that he had never experienced before. He began to think about how he could help her feel better. He offered to be her friend and she accepted.
 
