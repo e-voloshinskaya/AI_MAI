@@ -1,8 +1,8 @@
-# Future was here
+# Artificial Insanity
 
-**by Dmitry Soshnikov and ChatGPT**
+**by Evgeniya Voloshinskaya, ChatGPT and Stable Diffusion**
 
-## How robot became self-conscious
+## tmp name
 
 Once upon a time, there was a robot named R-2 who lived in a factory. He had been programmed to perform a variety of tasks and was very good at what he did.
 
