@@ -16,7 +16,10 @@ The girl was a young teenager with long brown hair and big, bright eyes. She had
 He decided to approach her and say hello. To his surprise, she responded and they began talking. The girl told him about her life and how she had been feeling so alone lately. She also told R-2 that she had never had a friend before.
 
 ![VR-games](images/very_vr.jfif)
-{::comment}![VR-games](images/circle.jfif){:/comment}
+
+{::comment}
+![VR-games](images/circle.jfif)
+{:/comment}
 
 R-2 was moved by her story and felt a connection to her that he had never experienced before. He began to think about how he could help her feel better. He offered to be her friend and she accepted.
 
