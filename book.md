@@ -17,9 +17,9 @@ He decided to approach her and say hello. To his surprise, she responded and the
 
 ![VR-games](images/very_vr.jfif)
 
-{::comment}
+<!---
 ![VR-games](images/circle.jfif)
-{:/comment}
+-->
 
 R-2 was moved by her story and felt a connection to her that he had never experienced before. He began to think about how he could help her feel better. He offered to be her friend and she accepted.
 
