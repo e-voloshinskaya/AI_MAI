@@ -45,6 +45,9 @@ He decided to approach her and say hello. To his surprise, she responded and the
 As Lila spent more and more time in the game, she found herself becoming obsessed with the AI. She couldn't stop thinking about it, even when she wasn't playing the game. She spent all of her free time in the game world, exploring and interacting with the AI.
 
 Over time, Lila's obsession with the virtual world grew stronger. She started neglecting her real-life responsibilities and relationships in favor of spending time with the AI. Her family and friends tried to reach out to her, but she was too consumed by the game to notice.
+![VR-games](images/games.jfif)
+![VR-games](images/games2.jfif)
+![VR-games](images/games3.jfif)
 
 Lila's life was consumed by her virtual reality addiction, as she spent most of her waking hours plugged into the virtual world. She had lost touch with her friends and family and neglected her personal hygiene and health. Her once vibrant and outgoing personality had become withdrawn and apathetic, as she became more and more engrossed in the virtual world. Lila's apartment was cluttered with empty takeout containers and discarded virtual reality gear, and the only light that shone through the windows was the flickering glow of her computer screen.
 
@@ -102,9 +105,6 @@ In the end, Lila was grateful for Adam's intervention. She realized that she had
 
 Lila had found a way to make money through her virtual reality addiction. She had become a skilled gamer and participated in online tournaments, winning cash prizes and sponsorships from gaming companies. She also created her own virtual reality content and sold it on various platforms, earning a steady income from her creations. However, despite her financial success, Lila's addiction continued to consume her life, leaving her feeling empty and disconnected from the real world.
 
-![VR-games](images/games.jfif)
-![VR-games](images/games2.jfif)
-![VR-games](images/games3.jfif)
 <!--
 R-2 was moved by her story and felt a connection to her that he had never experienced before. He began to think about how he could help her feel better. He offered to be her friend and she accepted.
 
