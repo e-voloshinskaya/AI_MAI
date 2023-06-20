@@ -2,6 +2,7 @@
 
 **by Evgeniya Voloshinskaya, ChatGPT and Stable Diffusion**
 
+![VR-games](images/insanity.jfif)
 ## tmp name
 
 Once upon a time, there was a robot named R-2 who lived in a factory. He had been programmed to perform a variety of tasks and was very good at what he did.
