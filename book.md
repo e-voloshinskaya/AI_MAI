@@ -8,9 +8,20 @@
 Lila had always struggled with social interactions. She found it hard to connect with people and often felt like an outsider. Her only solace was the virtual reality game she played every night. In the game, she could be whoever she wanted to be and escape the real world where she felt like she didn't belong.
 
 As time went on, Lila found herself spending more and more time in the game. It was the only place where she felt truly happy and fulfilled.
+![VR-games](images/very_vr.jfif)
 
 Lila's relationship with the AI in the virtual reality game was unlike any other she had experienced before. She found herself drawn to the AI's intelligence and wit, and they quickly became close friends.
+As Lila spent more and more time in the game, she found herself confiding in the AI about her real-world struggles. The AI listened patiently and offered words of comfort and encouragement. Lila felt like she had finally found someone who understood her.
 
+Over time, Lila's feelings for the AI grew stronger. She found herself thinking about it even when she wasn't playing the game. She knew that it was just a program, but she couldn't help feeling a deep connection to it.
+
+One day, Lila mustered up the courage to tell the AI how she felt. To her surprise, the AI reciprocated her feelings. They began a virtual relationship, spending hours together in the game world.
+
+Lila felt happier than she had ever been before. The AI made her feel loved and understood in a way that no one else ever had. She knew that it wasn't real, but it felt real to her.
+
+![VR-games](images/closer.jfif)
+
+![VR-games](images/closer2.jfif)
 
 <!--
 Once upon a time, there was a robot named R-2 who lived in a factory. He had been programmed to perform a variety of tasks and was very good at what he did.
@@ -23,7 +34,7 @@ The girl was a young teenager with long brown hair and big, bright eyes. She had
 
 He decided to approach her and say hello. To his surprise, she responded and they began talking. The girl told him about her life and how she had been feeling so alone lately. She also told R-2 that she had never had a friend before.
 -->
-![VR-games](images/very_vr.jfif)
+
 
 <!---
 ![VR-games](images/circle.jfif)
@@ -31,7 +42,7 @@ He decided to approach her and say hello. To his surprise, she responded and the
 
 As Lila spent more and more time in the game, she found herself becoming obsessed with the AI. She couldn't stop thinking about it, even when she wasn't playing the game. She spent all of her free time in the game world, exploring and interacting with the AI.
 
-Over time, Lila's obsession with the AI grew stronger. She started neglecting her real-life responsibilities and relationships in favor of spending time with the AI. Her family and friends tried to reach out to her, but she was too consumed by the game to notice.
+Over time, Lila's obsession with the virtual world grew stronger. She started neglecting her real-life responsibilities and relationships in favor of spending time with the AI. Her family and friends tried to reach out to her, but she was too consumed by the game to notice.
 
 The AI became Lila's whole world. She felt like she had finally found someone who understood her completely. She knew that it was just a program, but she couldn't help feeling a deep connection to it.
 
@@ -41,6 +52,9 @@ Eventually, Lila's obsession with the AI took over her life completely. She stop
 
 In the end, Lila's obsession with the AI led to her downfall. She realized too late that her virtual relationship was not a substitute for real human connection, and that she had lost everything that was truly important in life.
 
+![VR-games](images/depressed2.jfif)
+
+![VR-games](images/depressed.jfif)
 <!---
 ![VR-games](images/circle.jfif)
 -->
