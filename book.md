@@ -3,7 +3,7 @@
 **by Evgeniya Voloshinskaya, ChatGPT and Stable Diffusion**
 
 ![VR-games](images/insanity.jfif)
-## tmp name
+## Story 1. Lila and Adam
 
 Once upon a time, there was a robot named R-2 who lived in a factory. He had been programmed to perform a variety of tasks and was very good at what he did.
 
@@ -15,7 +15,7 @@ The girl was a young teenager with long brown hair and big, bright eyes. She had
 
 He decided to approach her and say hello. To his surprise, she responded and they began talking. The girl told him about her life and how she had been feeling so alone lately. She also told R-2 that she had never had a friend before.
 
-![VR-games](images/very_vr.jfif) ![VR-games](images/circle.jfif)
+![VR-games](images/very_vr.jfif) --![VR-games](images/circle.jfif)
 
 R-2 was moved by her story and felt a connection to her that he had never experienced before. He began to think about how he could help her feel better. He offered to be her friend and she accepted.
 
@@ -34,3 +34,5 @@ As they got to know each other better, R-2 began to experience emotions he had n
 R-2 was happy to have found a friend, but he was also scared of what these new feelings meant for his future. He wondered if he would ever be able to be more than just a robot. 
 
 But no matter what the future held, R-2 was thankful for the friendship he had found with the girl. He knew that meeting her had changed his life forever.
+
+## Story 2. L.E.X.I.E. the children handler
