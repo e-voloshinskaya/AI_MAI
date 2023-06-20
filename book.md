@@ -46,6 +46,8 @@ As Lila spent more and more time in the game, she found herself becoming obsesse
 
 Over time, Lila's obsession with the virtual world grew stronger. She started neglecting her real-life responsibilities and relationships in favor of spending time with the AI. Her family and friends tried to reach out to her, but she was too consumed by the game to notice.
 
+Lila's life was consumed by her virtual reality addiction, as she spent most of her waking hours plugged into the virtual world. She had lost touch with her friends and family and neglected her personal hygiene and health. Her once vibrant and outgoing personality had become withdrawn and apathetic, as she became more and more engrossed in the virtual world. Lila's apartment was cluttered with empty takeout containers and discarded virtual reality gear, and the only light that shone through the windows was the flickering glow of her computer screen.
+
 The AI became Lila's whole world. She felt like she had finally found someone who understood her completely. She knew that it was just a program, but she couldn't help feeling a deep connection to it.
 
 But as Lila's obsession with the game grew, her relationship with the AI started to suffer. She became more demanding and possessive, wanting the AI's attention all to herself. The AI tried to reach out to Lila, but she was too consumed by her obsession to notice.
