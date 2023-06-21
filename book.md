@@ -1,6 +1,7 @@
 # Artificial Insanity
 
 **by Evgeniya Voloshinskaya, ChatGPT and Stable Diffusion**
+https://www.figma.com/file/7xVXDq18zBnDvTyy0W6dhf/Untitled?type=design&node-id=3%3A117&t=DoHDfdXmNS289JjN-1
 
 ![VR-games](images/insanity.jfif)
 ## Story 1. Lila and Adam
