@@ -8,8 +8,6 @@ https://www.figma.com/file/7xVXDq18zBnDvTyy0W6dhf/Untitled?type=design&node-id=3
 
 Lila had always struggled with social interactions. She found it hard to connect with people and often felt like an outsider. Her only solace was the virtual reality game she played every night. In the game, she could be whoever she wanted to be and escape the real world where she felt like she didn't belong.
 
-![Lila and VR](images/LILA_vr_gaming.jfif)
-
 As time went on, Lila found herself spending more and more time in the game. It was the only place where she felt truly happy and fulfilled.
 
 Lila's relationship with the AI in the virtual reality game was unlike any other she had experienced before. His name was Adam. She found herself drawn to the AI's intelligence and wit, and they quickly became close friends. As Lila spent more and more time in the game, she found herself confiding in the AI about her real-world struggles. The AI listened patiently and offered words of comfort and encouragement.
