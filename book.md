@@ -1,7 +1,7 @@
 # Artificial Insanity
 
 **by Evgeniya Voloshinskaya, Mahmud Majidli, ChatGPT and Stable Diffusion**
-https://www.figma.com/file/7xVXDq18zBnDvTyy0W6dhf/Untitled?type=design&node-id=3%3A117&t=DoHDfdXmNS289JjN-1
+[https://www.figma.com/file/7xVXDq18zBnDvTyy0W6dhf/Untitled?type=design&node-id=3%3A117&t=DoHDfdXmNS289JjN-1](https://www.figma.com/design/7xVXDq18zBnDvTyy0W6dhf/AI-book?node-id=17-15&node-type=canvas&t=ACDP9khSEQ7FjI0d-0)
 
 ![VR-games](images/insanity.jfif)
 ## Lost in illusion
